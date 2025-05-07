@@ -1,5 +1,9 @@
 # EX 9 : IMAGE EDITING
 
+NAME : MOHAMED NIZAMUDDIN A
+
+REG NO : 212224040194
+
 ## AIM:
 
  To edit an image using an image editing software.
@@ -51,3 +55,9 @@
 
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/5510c495-6b5c-4dee-87aa-97a9124eaa78)
+
+## RESULT : 
+
+ Thus  an image is edited using an image editing software.
