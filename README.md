@@ -1,8 +1,6 @@
 # EX 9 : IMAGE EDITING
 
-NAME : MOHAMED NIZAMUDDIN A
 
-REG NO : 212224040194
 
 ## AIM:
 
@@ -56,7 +54,8 @@ REG NO : 212224040194
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5510c495-6b5c-4dee-87aa-97a9124eaa78)
+![Screenshot 2025-05-21 115209](https://github.com/user-attachments/assets/26981532-d48c-449f-bde3-4e03982e0731)
+
 
 ## RESULT : 
 
